@@ -1,0 +1,10 @@
+{
+  "name": "com.fronzenbullets.libraries.besthttp",
+  "displayName": "BestHTTP",
+  "description": "BestHTTP Library",
+  "version": "1.0.1",
+  "unity": "2018.4",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
